@@ -42,15 +42,15 @@ I'm Monica, a **Software Engineer** with **7+ years of experience** working acro
 
 ## 📊 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MonicaDevaraj&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonicaDevaraj&theme=radical" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MonicaDevaraj&show_icons=true&locale=en" width="48%" alt="Monica's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonicaDevaraj&locale=en" width="48%" alt="Monica's GitHub Streak" />
 </div>
 
 ---
 
 ## 🔥 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonicaDevaraj&layout=compact&theme=radical" width="48%" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonicaDevaraj&layout=compact&locale=en" width="48%" alt="Most Used Languages" />
 </p>
 
 ---
