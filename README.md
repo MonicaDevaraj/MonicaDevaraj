@@ -5,6 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=MonicaDevaraj&label=Profile%20Views&color=0e75b6&style=flat" alt="MonicaDevaraj" />
 </p>
 
+---
+
 ## 👩‍💻 About Me  
 I'm Monica, a **Software Engineer** with **7+ years of experience** working across various domains:  
 - ☁️ **Cloud Computing** (AWS, Azure)  
@@ -19,14 +21,13 @@ I'm Monica, a **Software Engineer** with **7+ years of experience** working acro
 ✅ **Leetcode Solutions**  
 ✅ **Behavioral Interview Preparation**  
 
-### 🔍 **Explore My Work**  
-🔗 **GitHub Repositories:** [MonicaDevaraj](https://github.com/MonicaDevaraj?tab=repositories)  
-📢 **Follow me on [LinkedIn](https://www.linkedin.com/in/monica)** to stay updated!  
+🔗 **[Explore My GitHub Repositories](https://github.com/MonicaDevaraj?tab=repositories)**  
+📢 **[Follow me on LinkedIn](https://www.linkedin.com/in/monica-devaraj/)** to stay updated!  
 
 ---
 
 ## 🚀 Technologies & Tools  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apache-spark&logoColor=black" />
@@ -40,18 +41,26 @@ I'm Monica, a **Software Engineer** with **7+ years of experience** working acro
 ---
 
 ## 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MonicaDevaraj&show_icons=true&theme=radical" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MonicaDevaraj&theme=radical" width="48%" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🔥 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MonicaDevaraj&show_icons=true&theme=radical" alt="MonicaDevaraj" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonicaDevaraj&layout=compact&theme=radical" width="48%" alt="Most Used Languages" />
 </p>
 
 ---
 
 ## 📫 Connect with Me  
-<p align="left">
+<p align="center">
   <a href="mailto:connect.monicadevaraj@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/in/monica-devaraj">
+  <a href="https://www.linkedin.com/in/monica-devaraj/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
